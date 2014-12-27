@@ -1,0 +1,8 @@
+C:\Users\PC21\Desktop\student entry UI\student entry UI\bin\Debug\student entry UI.exe.config
+C:\Users\PC21\Desktop\student entry UI\student entry UI\bin\Debug\student entry UI.exe
+C:\Users\PC21\Desktop\student entry UI\student entry UI\bin\Debug\student entry UI.pdb
+C:\Users\PC21\Desktop\student entry UI\student entry UI\obj\Debug\student_entry_UI.Form1.resources
+C:\Users\PC21\Desktop\student entry UI\student entry UI\obj\Debug\student_entry_UI.Properties.Resources.resources
+C:\Users\PC21\Desktop\student entry UI\student entry UI\obj\Debug\student entry UI.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\student entry UI\student entry UI\obj\Debug\student entry UI.exe
+C:\Users\PC21\Desktop\student entry UI\student entry UI\obj\Debug\student entry UI.pdb
